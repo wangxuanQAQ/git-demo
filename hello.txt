@@ -1,12 +1,9 @@
 hello git! 22222
 hello git! 33333
-<<<<<<< HEAD
 hello git! 
 hello git! 55555
-=======
 hello git! 44444
 hello git!
->>>>>>> hot-fix
 hello git!
 hello git!
 hello git!
